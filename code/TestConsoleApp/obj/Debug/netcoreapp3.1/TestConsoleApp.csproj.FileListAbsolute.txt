@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.exe
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.deps.json
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.dll
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\bin\Debug\netcoreapp3.1\TestConsoleApp.pdb
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.dll
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.pdb
+C:\Users\Administrator\Desktop\Git使用教程\github\code\TestConsoleApp\obj\Debug\netcoreapp3.1\TestConsoleApp.genruntimeconfig.cache
