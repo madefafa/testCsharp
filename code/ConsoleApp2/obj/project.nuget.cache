@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wDo7w7d8eyOCL0vK5TgGrBgoEkWy/UDbelFYqBSnhyYHmGHSwfDh8VQ+yfbs8+WH1REf3uyh/fVFywuf5Oz9eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Git使用教程\\github\\code\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
